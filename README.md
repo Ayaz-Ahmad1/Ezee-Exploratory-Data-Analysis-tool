@@ -22,8 +22,6 @@ $ streamlit app.py
 
 Navigate to URL: http://localhost:8501
 
-generate an EDA of your csv tool with selected columns and seleced rows
-
 Reference image
 ![Pair Plot](image.png)
 
