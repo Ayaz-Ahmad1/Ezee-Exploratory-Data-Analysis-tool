@@ -22,6 +22,6 @@ $ streamlit app.py
 ```
 ### Navigate to URL: http://localhost:8501
 
-### Reference image
+### Reference image:
 ![Pair Plot](image.png)
 
