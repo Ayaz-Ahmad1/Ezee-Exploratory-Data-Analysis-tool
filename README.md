@@ -5,6 +5,7 @@ Quick Start
 Clone the repo
 
 $ git clone https://github.com/Ayaz-Ahmad1/Ezee-Exploratory-Data-Analysis-tool.git
+
 $ cd Ezee-Exploratory-Data-Analysis-tool
 
 Initialize and activate a virtualenv:
