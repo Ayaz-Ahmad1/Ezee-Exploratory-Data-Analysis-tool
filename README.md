@@ -1,9 +1,10 @@
 ### Ezee Exploratory Data Analysis tool
 
 ### Clone the repo:
+```python
+
 $ git clone https://github.com/Ayaz-Ahmad1/Ezee-Exploratory-Data-Analysis-tool.git
 $ cd Ezee-Exploratory-Data-Analysis-tool
-```python
 ### Initialize and activate a virtualenv:
    ```bash
 $ virtualenv --no-site-packages env
