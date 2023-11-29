@@ -87,44 +87,6 @@ if uploaded_file is not None:
         else:
             st.warning("Select at least one feature to generate EDA plots.")
 
-        # # EDA Plots
-        # if selected_features:
-        #     st.write("## EDA Plots")
-
-        #     # Pair plot
-        #     st.write("### Pair Plot")
-        #     numeric_columns = iris_df.select_dtypes(include=['float64', 'int64']).columns
-        #     if len(numeric_columns) >= 2:
-        #         pair_fig = sns.pairplot(iris_df[selected_features], height=3)
-        #         st.pyplot(pair_fig)
-        #     else:
-        #         st.write("Not enough numeric columns for a pair plot.")
-
-        #     # Box plot
-        #     st.write("### Box Plot")
-        #     # Check if 'species' is in the DataFrame
-        #     # for selected in selected_features:
-        #     box_fig = px.box(iris_df, x=selected_features)
-        #     st.plotly_chart(box_fig)
-        
-
-        #     # Correlation heatmap
-        #     st.write("### Correlation Heatmap")
-        #     corr_matrix = iris_df[selected_features].corr()
-        #     sns.set(font_scale=1.2)
-        #     heatmap_fig, ax = plt.subplots(figsize=(8, 6))
-        #     sns.heatmap(corr_matrix, annot=True, cmap="coolwarm", linewidths=.5, ax=ax)
-        #     st.pyplot(heatmap_fig)
-
-        #     # Violin plot
-        #     # for selected in selected_features:
-        #     st.write("### Violin Plot")
-        #     violin_fig = px.violin(iris_df,x=selected_features, box=True, points="all")
-        #     st.plotly_chart(violin_fig)
-
-        # else:
-        #     st.warning("Select at least one feature to generate EDA plots.")
-
 
 
 
