@@ -4,6 +4,8 @@ Quick Start
 
 Clone the repo
 
+To install the required dependencies, run:
+
 $ git clone https://github.com/Ayaz-Ahmad1/Ezee-Exploratory-Data-Analysis-tool.git
 
 $ cd Ezee-Exploratory-Data-Analysis-tool
