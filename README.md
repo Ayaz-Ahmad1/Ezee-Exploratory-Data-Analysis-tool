@@ -1,9 +1,6 @@
 ### Ezee Exploratory Data Analysis tool
 
-Quick Start
-
-Clone the repo
-
+### Clone the repo:
 
 $ git clone https://github.com/Ayaz-Ahmad1/Ezee-Exploratory-Data-Analysis-tool.git
 
