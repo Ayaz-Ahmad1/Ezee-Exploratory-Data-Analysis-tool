@@ -4,7 +4,12 @@ Quick Start
 
 Clone the repo
 
-To install the required dependencies, run:
+### Install Dependencies
+
+To install the required Python packages, run the following command:
+
+```bash
+pip install -r requirements.txt
 
 $ git clone https://github.com/Ayaz-Ahmad1/Ezee-Exploratory-Data-Analysis-tool.git
 
